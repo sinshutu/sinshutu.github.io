@@ -1,0 +1,26 @@
+{
+  "name": "sinshutu.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/sinshutu/sinshutu.github.io.git",
+  "author": "NaotoSuzuki <c0114292a2@edu.teu.ac.jp>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo test",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.1.2",
+    "cssnano": "^3.10.0",
+    "eslint": "^4.5.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.1",
+    "postcss": "^6.0.9",
+    "postcss-custom-properties": "^6.1.0",
+    "postcss-import": "^10.0.0",
+    "postcss-nested": "^2.1.2",
+    "vue": "^2.4.2"
+  }
+}
